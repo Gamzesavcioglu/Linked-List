@@ -1,2 +1,2 @@
-# Bagli-Liste-Uygulamasi
- Proje kapsamında, şehirlerin komşuluk ilişkilerini dikkate alan çok basit bir harita verisi üzerinde bağlı listelerle ilgili temel işlevleri yerine getiren bir uygulama gerçekleştirilmiştir.
+# Linked List
+In the project, an application that performs the basic functions of linked lists on a very simple map data, which takes into account the neighborhood relations of cities, has been implemented..
